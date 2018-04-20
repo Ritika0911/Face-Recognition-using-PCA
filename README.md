@@ -1,4 +1,4 @@
-## Face-Recognition-using-Principal Component Analysis
+# Face-Recognition-using-Principal Component Analysis
 
 # Goals
 Familiarizing with AT&T face database
